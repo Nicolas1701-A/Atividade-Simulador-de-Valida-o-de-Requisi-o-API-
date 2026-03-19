@@ -1,1 +1,0 @@
-# Atividade-Simulador-de-Valida-o-de-Requisi-o-API-
